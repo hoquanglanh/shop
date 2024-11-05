@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Áo thun nam năng động",
+    "description": "Áo thun chất liệu cotton tự nhiên, siêu thoáng và mềm mại, phù hợp cho mọi hoạt động ngoài trời và trong nhà.",
+    "price": 260000,
+    "imageUrl": "https://example.com/images/ao-thun-nam.jpg",
+    "quantity": 12
+  },
+  {
+    "name": "Quần jeans nữ thời trang",
+    "description": "Quần jeans ôm sát, co giãn hoàn hảo, mang đến cảm giác thoải mái cho ngày dài năng động.",
+    "price": 470000,
+    "imageUrl": "https://example.com/images/quan-jeans-nu.jpg",
+    "quantity": 9
+  },
+  {
+    "name": "Đồng hồ thể thao đa năng",
+    "description": "Đồng hồ thể thao chống nước, bấm giờ và theo dõi thời gian hiệu quả, thiết kế phù hợp với mọi phong cách.",
+    "price": 1250000,
+    "imageUrl": "https://example.com/images/dong-ho-the-thao.jpg",
+    "quantity": 6
+  },
+  {
+    "name": "Giày sneaker trắng cao cấp",
+    "description": "Giày sneaker thiết kế trẻ trung, dễ phối với trang phục và êm ái khi di chuyển, tạo phong cách năng động.",
+    "price": 820000,
+    "imageUrl": "https://example.com/images/giay-sneaker-trang.jpg",
+    "quantity": 10
+  },
+  {
+    "name": "Balo du lịch đa dụng",
+    "description": "Balo với nhiều ngăn lớn, chất liệu chống thấm nước, lý tưởng cho chuyến đi dài và ngắn ngày.",
+    "price": 620000,
+    "imageUrl": "https://example.com/images/balo-du-lich.jpg",
+    "quantity": 5
+  },
+  {
+    "name": "Áo khoác gió phong cách",
+    "description": "Áo khoác nhẹ có mũ, giữ ấm trong thời tiết se lạnh, phù hợp cho những chuyến đi chơi ngoài trời.",
+    "price": 560000,
+    "imageUrl": "https://example.com/images/ao-khoac-gio.jpg",
+    "quantity": 8
+  },
+  {
+    "name": "Kính râm UV bảo vệ",
+    "description": "Kính râm chống tia UV, thiết kế unisex, mang phong cách hiện đại và bảo vệ mắt hiệu quả.",
+    "price": 310000,
+    "imageUrl": "https://example.com/images/kinh-ram.jpg",
+    "quantity": 10
+  },
+  {
+    "name": "Mũ lưỡi trai mùa hè",
+    "description": "Mũ lưỡi trai phong cách năng động, chất liệu thoáng khí, thích hợp cho các hoạt động ngoài trời.",
+    "price": 160000,
+    "imageUrl": "https://example.com/images/mu-luoi-trai.jpg",
+    "quantity": 18
+  },
+  {
+    "name": "Túi xách da sang trọng",
+    "description": "Túi xách làm từ da thật, thiết kế thanh lịch với nhiều ngăn nhỏ tiện lợi, phù hợp cho phong cách quý phái.",
+    "price": 980000,
+    "imageUrl": "https://example.com/images/tui-xach-da.jpg",
+    "quantity": 4
+  },
+  {
+    "name": "Dép lê chống trượt",
+    "description": "Dép lê cao su mềm mại, chống trơn trượt tốt, thích hợp đi lại trong nhà và ngoài trời.",
+    "price": 120000,
+    "imageUrl": "https://example.com/images/dep-le.jpg",
+    "quantity": 25
+  }
+]
